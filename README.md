@@ -1,2 +1,3 @@
-##Periodismo y Direccion Audiovisual
-###Correo : istieruiz@uc.cl
+
+Periodismo y Direccion Audiovisual
+Correo : istieruiz@uc.cl
