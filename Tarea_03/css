@@ -1,1 +1,80 @@
+<style>/
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8fff8; /* blanco verdoso suave */
+  color: #1b1b1b;
+  margin: 0;
+  padding: 0;
+}
 
+/* para el ecabezado */
+header {
+  background-color: #d1fae5; /* verde muy claro */
+  color: #064e3b;
+  text-align: center;
+  padding: 25px 15px;
+  border-bottom: 2px solid #34d399; /* verde acento */
+}
+
+/* foto de perfil */
+header img {
+  border-radius: 50%;
+  width: 130px;
+  margin-top: 12px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+}
+
+/* para las secciones */
+section {
+  background-color: #ffffff;
+  margin: 30px auto;
+  padding: 25px;
+  max-width: 850px;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+
+/* y los títulos */
+h1 {
+  font-size: 2em;
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #059669; /* verde principal */
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.2em;
+  color: #065f46;
+}
+
+/* Listas */
+ul, ol {
+  padding-left: 20px;
+  line-height: 1.6;
+}
+
+/* Enlaces */
+a {
+  color: #10b981; /* verde vibrante */
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #047857;
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #d1fae5;
+  color: #064e3b;
+  margin-top: 40px;
+  font-size: 0.95em;
+}</style>
